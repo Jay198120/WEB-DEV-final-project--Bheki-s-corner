@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="A red carton of hot chips">
+  <g stroke="#1d1a2b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="120" cy="166" rx="70" ry="7" fill="#1d1a2b" opacity=".12" stroke="none"/>
+    <g fill="#ffcf4a">
+      <rect x="70" y="26" width="14" height="76" rx="4" transform="rotate(-16 77 64)"/>
+      <rect x="90" y="14" width="14" height="86" rx="4" transform="rotate(-6 97 57)"/>
+      <rect x="112" y="10" width="14" height="90" rx="4" transform="rotate(2 119 55)"/>
+      <rect x="134" y="14" width="14" height="86" rx="4" transform="rotate(10 141 57)"/>
+      <rect x="154" y="26" width="14" height="76" rx="4" transform="rotate(18 161 64)"/>
+      <rect x="100" y="32" width="14" height="70" rx="4" transform="rotate(-2 107 67)"/>
+      <rect x="124" y="30" width="14" height="72" rx="4" transform="rotate(6 131 66)"/>
+    </g>
+    <path d="M62 94h116l-12 66H74z" fill="#c8321f"/>
+    <path d="M62 94h116l-2 12H64z" fill="#e5483a"/>
+        <circle cx="120" cy="127" r="14" fill="#ffb81c"/>
+    <text x="120" y="134" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="20" fill="#1d1a2b" stroke="none">B</text>
+  </g>
+</svg>

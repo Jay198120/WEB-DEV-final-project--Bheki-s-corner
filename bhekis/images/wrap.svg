@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="A chicken wrap in foil">
+  <g stroke="#1d1a2b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="120" cy="166" rx="84" ry="7" fill="#1d1a2b" opacity=".12" stroke="none"/>
+    <g transform="rotate(-24 120 92)">
+      <rect x="52" y="62" width="136" height="64" rx="30" fill="#f2d9a8"/>
+      <ellipse cx="52" cy="94" rx="14" ry="32" fill="#ffe9bd"/>
+      <circle cx="50" cy="78" r="8" fill="#4fb36b"/>
+      <circle cx="46" cy="96" r="8" fill="#e5483a"/>
+      <circle cx="50" cy="112" r="8" fill="#c98a3a"/>
+      <path d="M110 58h52v72h-52z" fill="#c9ccd6"/>
+      <path d="M122 58v72M136 58v72M150 58v72" stroke="#9a9db0" stroke-width="2"/>
+      <path d="M100 64q4 30 0 56" fill="none" stroke="#c98a3a" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

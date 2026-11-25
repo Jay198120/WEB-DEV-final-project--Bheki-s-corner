@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="A cold drink in a cup with a straw">
+  <g stroke="#1d1a2b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="120" cy="166" rx="56" ry="7" fill="#1d1a2b" opacity=".12" stroke="none"/>
+    <path d="M128 52l22-34h24" fill="none" stroke-width="7"/>
+    <path d="M128 52l22-34h24" fill="none" stroke="#e5483a" stroke-width="3"/>
+    <path d="M78 64h84l-10 96H88z" fill="#fbfbfd"/>
+    <path d="M82 96h76l-6 64H88z" fill="#e5483a"/>
+    <path d="M82 96h76" fill="none"/>
+    <rect x="72" y="52" width="96" height="16" rx="8" fill="#ffb81c"/>
+    <circle cx="108" cy="122" r="6" fill="#fbfbfd" stroke-width="2.5"/>
+    <circle cx="130" cy="136" r="4" fill="#fbfbfd" stroke-width="2.5"/>
+    <circle cx="124" cy="112" r="3" fill="#fbfbfd" stroke-width="2.5"/>
+  </g>
+</svg>

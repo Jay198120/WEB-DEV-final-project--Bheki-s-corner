@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="A chocolate chip muffin in a paper cup">
+  <g stroke="#1d1a2b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="120" cy="166" rx="66" ry="7" fill="#1d1a2b" opacity=".12" stroke="none"/>
+    <path d="M60 88c-4-34 24-58 60-58s64 24 60 58z" fill="#a5683c"/>
+    <path d="M52 92h136l-14 66H66z" fill="#ffb81c"/>
+    <path d="M84 92l6 66M104 92l3 66M124 92v66M144 92l-3 66M164 92l-6 66" fill="none" stroke-width="2.5"/>
+    <g fill="#1d1a2b" stroke="none"><circle cx="90" cy="64" r="5"/><circle cx="120" cy="50" r="5"/><circle cx="148" cy="66" r="5"/><circle cx="110" cy="76" r="4"/><circle cx="136" cy="82" r="4"/></g>
+  </g>
+</svg>

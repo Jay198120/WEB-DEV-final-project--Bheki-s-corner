@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Fried eggs and bacon on a plate">
+  <g stroke="#1d1a2b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="120" cy="150" rx="92" ry="24" fill="#1d1a2b" opacity=".12" stroke="none"/>
+    <ellipse cx="120" cy="104" rx="98" ry="54" fill="#fbfbfd"/>
+    <ellipse cx="120" cy="104" rx="74" ry="38" fill="#f0eff6"/>
+    <path d="M72 100c-8-16 8-34 30-32 18 2 26 12 34 10 16-2 30 10 24 26-6 16-28 22-46 18-18 6-34 0-42-22z" fill="#fff"/>
+    <circle cx="112" cy="94" r="15" fill="#ffb81c"/>
+    <circle cx="107" cy="89" r="4" fill="#ffe08a" stroke="none"/>
+    <path d="M150 74c14-6 28 2 20 12s-14 18-8 30" fill="none" stroke="#c8321f" stroke-width="12"/>
+    <path d="M150 74c14-6 28 2 20 12s-14 18-8 30" fill="none" stroke="#e8776c" stroke-width="5"/>
+    <path d="M178 84c10 6 6 20-4 28" fill="none" stroke="#c8321f" stroke-width="10"/>
+  </g>
+</svg>
