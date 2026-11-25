@@ -99,15 +99,27 @@ This project was built without PHP sessions, as the assignment required. Because
 
 Do not use this version for a real business. The next step would be PHP sessions with role checks on every admin action.
 
+## Screenshots
+
+_Add screenshots here (home page, menu, cart, staff dashboard, mobile view)._
 
 ## Team
 
-| Name | Student number | Role |
-|---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Name | Role |
+|---|---|
+| James Machava | Frontend and design lead |
+| Donley Esumile Nyathi | Backend and database lead |
+| Mashudu Gumede | Staff area, testing and documentation lead |
+
+### Division of work
+
+| Area | James Machava | Donley Esumile Nyathi | Mashudu Gumede |
+|---|---|---|---|
+| Pages | Home (`index.php`), About (`about.php`) | Menu, Cart, My orders, Log in, Register | Contact, Staff dashboard, Menu items, Orders, Messages |
+| Shared files | `header.php`, `footer.php`, `style.css`, `style-guide.html` | `config.php`, `product-card.php`, `bhekis_corner.sql` | `admin-header.php`, `admin-footer.php`, `admin.css` |
+| JavaScript | `i18n.js` (English and Afrikaans), `main.js`, `home.js` | `cart.js`, `cart-page.js`, `menu.js`, `orders.js`, `auth.js` | `contact.js`, `admin.js` |
+| PHP scripts | None (works on design and layout) | `login.php`, `register.php`, `place-order.php`, `fetch-my-orders.php` | `contact-submit.php`, `admin-products.php`, `admin-order-status.php`, `admin-messages.php` |
+| Other | Logo, illustrations, videos, responsive design, Afrikaans translation | Database design, security (hashed passwords, prepared statements) | Test plan, project documentation, FTP deployment, GitHub README |
 
 ## Licence
 
